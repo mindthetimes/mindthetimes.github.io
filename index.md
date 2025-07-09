@@ -1,5 +1,5 @@
 ---
-title: jenrosblog-site
+title: mindthetimes.github.io
 ---
 
 # Jenro's Blog 
