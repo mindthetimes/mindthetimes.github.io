@@ -4,7 +4,7 @@ date: 2023-01-27
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
 image:
-  path: /_images/coverimage-mtt-diarios.png
+  path: /images/coverimage-mtt-diarios.png
   alt: Diarios De Motocicleta still image teal gradient
 ---
 
