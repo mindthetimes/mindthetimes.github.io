@@ -1,0 +1,49 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Font style and color */
+body {
+  font-family: 'Source Sans Pro', sans-serif; // Replace with your preferred font
+  color: #0b3025; // Main text color
+}
+
+/* Sidebar background and text */
+.sidebar {
+  background-color: #26b98e; // Dark sidebar background
+  color: #0b3025; // Sidebar text color
+}
+
+.sidebar .site-title {
+  color: #0b3025; // Title color
+}
+
+.sidebar .site-subtitle {
+  color: #0b3025; // Subtitle color
+}
+
+/* Icon colors */
+.sidebar .icon {
+  color: #0b3025; // Icon color
+}
+
+.sidebar .icon:hover {
+  color: #0b3025; // Icon hover color
+}
+
+/* Link colors */
+a {
+  color: #d5ba21;
+}
+
+a:hover {
+  color: #94800d;
+}
