@@ -3,6 +3,9 @@ title: On The Movie "The Tunnel To Summer, the Exit of Goodbyes"
 date: 2024-10-31
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
+image:
+  path: /_images/coverimage-mtt-tunnelto.png
+  alt: The Tunnel To Summer, the Exit of Goodbyes still image teal gradient
 ---
 
 From the tv screen, with its damp and rain-infused, almost classical, and almost ordinary, and reminiscent of life from almost 20 years ago, much has been felt from the animated film **The Tunnel of Summer, the Exit of Goodbyes, 2022**. When it comes to its movement, it may be as though the viewing itself is a walk inside the *Urashima Tunnel*, immersing into something that cascades, an elegant caprice, and a fascinating blend to real life in its flow. From the railroad tracks, the sunflowers, the umbrellas, it was clear that this was not keen on grabbing us through the eyes, but our minds, through these repetitive imagery, what we remember, in our memories and what takes hold of us there. In a world that has evolved to become primarily cerebral, the movie does a good job at making challenges to what drives us from then and now.

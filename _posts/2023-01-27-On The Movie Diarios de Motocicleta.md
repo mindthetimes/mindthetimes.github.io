@@ -3,6 +3,11 @@ title: On The Movie "Diarios De Motocicleta"
 date: 2023-01-27
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
+image:
+  path: /_images/coverimage-mtt-diarios.png
+  alt: Diarios De Motocicleta still image teal gradient
+---
+
 ---
 
 Dearest of days it is, this one that has passed before us, January 27, of the year 2023. That's quite the conjecture, I suppose, but it is an important one from my side of the world. I have brought a brew of frappuccino for myself and a mango drink to my older sister. This is a very tasty brew, with its price a bit on the affordable side. I have also come across a copy of “Diarios de Motocicleta” on the internet and watched the movie with my mother tonight.

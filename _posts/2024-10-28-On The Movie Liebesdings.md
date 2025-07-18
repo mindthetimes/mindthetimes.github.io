@@ -3,6 +3,9 @@ title: On The Movie "Liebesdings"
 date: 2024-10-28
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
+image:
+  path: /_images/coverimage-mtt-liebesdings.png
+  alt: Liebesdings still image teal gradient
 ---
 
 The nuances of writing elude me further, my mind often left blank. As my eyes pass through a movie, not one with seemingly much depth to it, I can't help but resign to the fate of my condition - that I am mentally disabled and have the lack of capacity to divulge right into the details when it need be.

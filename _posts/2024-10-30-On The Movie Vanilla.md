@@ -3,6 +3,9 @@ title: On The Movie "Vanilla"
 date: 2024-10-30
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
+image:
+  path: /_images/coverimage-mtt-vanilla.png
+  alt: Vanilla still image teal gradient
 ---
 
 Well this movie was quite the cluster...truck. Van, actually. Or ice cream truck. Well, there wasn't really an ice cream truck, so...and no I wouldn't dare curse on this blog of mine, which I value too...dearly. *(But if I did, shouldn't I be having multitudes of followers and readers by now? I've had this domain name for quite some time and yet...)*
