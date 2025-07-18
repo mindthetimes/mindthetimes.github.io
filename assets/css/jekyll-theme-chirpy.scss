@@ -17,7 +17,7 @@ body {
 }
 
 /* Sidebar background and text */
-.sidebar {
+#sidebar {
   background-color: #26b98e; // Dark sidebar background
   color: #0b3025; // Sidebar text color
 }
@@ -47,3 +47,14 @@ a {
 a:hover {
   color: #94800d;
 }
+
+--site-title-color: #0b3025;
+--site-subtitle-color: #0b3025;
+--sidebar-bg: #26b98e;
+--sidebar-border-color: #0b3025;
+--sidebar-muted-color: #42a185;
+--sidebar-active-color: #26b98e;
+--sidebar-hover-bg: #1bffbc;
+--sidebar-btn-bg: white;
+--sidebar-btn-color: #8e8e8e;
+--avatar-border-color: white;
