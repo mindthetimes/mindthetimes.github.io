@@ -8,8 +8,6 @@ image:
   alt: Diarios De Motocicleta still image teal gradient
 ---
 
----
-
 Dearest of days it is, this one that has passed before us, January 27, of the year 2023. That's quite the conjecture, I suppose, but it is an important one from my side of the world. I have brought a brew of frappuccino for myself and a mango drink to my older sister. This is a very tasty brew, with its price a bit on the affordable side. I have also come across a copy of “Diarios de Motocicleta” on the internet and watched the movie with my mother tonight.
 
 I have appreciated the value of this movie. 'Tis a tale of two young chaps, a biochemist by the name of Alberto, and the one called Ernesto, bright in his pursuits of medicine. My mother was not privy to her wits about the movie and let out a few good laughs. I, on the other hand, soaked myself into the film quite so, driven by the role of Ernesto as both their travels unfold. Our leads are both full of ideas and enthusiasm and light for the world, it was great to cherish seeing the actors’ smiles and how their desire for travel, at times whimsical it was, lit up their lives and where they saw their place in South America.
