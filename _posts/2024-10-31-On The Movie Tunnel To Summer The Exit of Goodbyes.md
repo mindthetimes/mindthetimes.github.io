@@ -4,7 +4,7 @@ date: 2024-10-31
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
 image:
-  path: /images/coverimage-mtt-tunnelto.png
+  path: /assets/img/coverimage-mtt-tunnelto.png
   alt: The Tunnel To Summer, the Exit of Goodbyes still image teal gradient
 ---
 

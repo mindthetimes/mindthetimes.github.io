@@ -4,7 +4,7 @@ date: 2024-10-28
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
 image:
-  path: /images/coverimage-mtt-liebesdings.png
+  path: /assets/img/coverimage-mtt-liebesdings.png
   alt: Liebesdings still image teal gradient
 ---
 

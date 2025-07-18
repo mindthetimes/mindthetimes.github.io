@@ -4,7 +4,7 @@ date: 2024-10-30
 categories: [Film]
 tags: [review]     # TAG names should always be lowercase
 image:
-  path: /images/coverimage-mtt-vanilla.png
+  path: /assets/img/coverimage-mtt-vanilla.png
   alt: Vanilla still image teal gradient
 ---
 
