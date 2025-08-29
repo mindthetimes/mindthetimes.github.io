@@ -6,15 +6,26 @@ order: 4
 
 #  About
 
-## Jenro's Blog
+## Mind The Times
 
-Jenro's Blog is a culmination and launchpad for Jenro's interests. In a sea of heavy noise that is the internet, this website hopes to be a space that emphasizes ownership of content, and generally just moving away from traditional options of where content lies.
+Welcome! Enjoy your visit. What is '*Mind The Times*'?
 
-Being mostly a personal website, I put some effort into getting myself out there and fitting in with the web. Seeing the changes in technology, I am trying to get to it and understand that the popular way of doing things is not always the correct way.
+Throughout the years, I've been in a search towards my true voice. I couldn't truly share what I found yet fully, so it became an ongoing thing, sharing bits of my personal search with the internet.
 
-I am keen on my observations that there is a problem with my understanding of the web, and that the vibrance and interest in the web was not as it was in my younger years. A revitalization may be amply needed on my part. But by sharing my stories and blog posts in part with you, I believe that I am able to create something of utmost value. It all seems rudimentary at the moment, but it is part of our coexistence with the modern world.
+What 'Mind The Times' is, currently, is a wish to be open about the times.
 
-## Jenro's Story
+I'm currently moving through a spectrum of interests, with the main ones being the following.
 
-Beginning as a character from a written story based off classmates in school, and evolving into a player-made tactician for the Fire Emblem series and then leading a group of newbies stand against pub-stomping in Defense of the Ancients, Jenro has become more than just a character but an outlook towards life. More than a persona, Jenro embodies not just being an extension of the self, but a movement towards ones' deeply held values.
+### My cinema discovery
 
+A lot of my cinema watching experience is locked into my [Letterboxd account](https://letterboxd.com/throughline7/) and that's been a mix of both wild and precise, to say the least. Some of this experience might have caused me to stray far from my own voice, so it's a process that needs major changes as it stands.
+
+### My arrows
+
+With my current understanding of the charts I make for the rhythm game [Stepmania](https://www.stepmania.com/), I get a lot more emotionally motivated by the charting process and the song selection, and I have a more solid grasp with that emotion compared to when I first started. 
+
+This way of charting might be entirely detached from the game's nature itself, and the method I've adhered to is to keep the arrows as close to me as possible, in order to know exactly what changed with time, so I can revise it readily.
+
+### My graphic design portfolio
+
+I previously worked as a full-time graphic designer. I still know how to design, but having the least amount of practice now means I don't keep up with the industry as much as I should. This could still change, it's still just as interesting to me, that is, *if* I could separate the drama from, well, actual work.
