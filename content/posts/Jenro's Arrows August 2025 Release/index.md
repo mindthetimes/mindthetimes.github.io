@@ -11,14 +11,14 @@ These two new simfile releases draw from an inner war with the "beta" state.
 
 ### Alone - Maduk, Marianna Ray
 {{< button href="#button" target="https://www.mediafire.com/file/ehhr948syfqe47o/Alone_%255BJenro%255D.zip/file" >}}
-Download
+Mediafire
 {{< /button >}}
 
 {{< figure src="alone-jenro.png" class="m-auto mt-6" >}}
 
 ### Our Story - Vicktor, Strybo
 {{< button href="#button" target="https://www.mediafire.com/file/h5erjbfpcbr503e/Our_Story_%255BJenro%255D.zip/file" >}}
-Download
+Mediafire
 {{< /button >}}
 
 {{< figure src="ourstory-jenro.png" class="m-auto mt-6" >}}

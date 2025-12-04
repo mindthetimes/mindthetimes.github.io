@@ -8,7 +8,10 @@ topics: ["simfiles"]
 How was your month of September? This time, I'm releasing one simfile for the month!
 
 ### Perfect World - Conro, Marlhy
-[Download](https://www.mediafire.com/file/w5syafhdgwza5ev/Perfect_World_%255BJenro%255D.zip/file)
+{{< button href="#button" target="https://www.mediafire.com/file/w5syafhdgwza5ev/Perfect_World_%255BJenro%255D.zip/file" >}}
+Mediafire
+{{< /button >}}
+
 
 {{< figure src="perfectworld-jenro.png" class="m-auto mt-6" >}}
 

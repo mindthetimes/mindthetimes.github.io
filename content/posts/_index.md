@@ -1,5 +1,5 @@
 ---
-title: "Posts :tada:"
+title: "Posts"
 description: "All my blog posts, from writing about my interests to pretty much a ton of information I think is valuable."
 ---
 
