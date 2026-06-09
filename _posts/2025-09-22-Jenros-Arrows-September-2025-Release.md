@@ -3,16 +3,18 @@ title: Jenro's Arrows September 2025 Release
 date: 2025-09-22
 description: "Simfiles releases for the month of September 2025."
 categories: ["simfiles"]
+image:
+  path: /assets/img/feature-jenrosarrows.png
+  alt: image alternative text
 ---
 
 How was your month of September? This time, I'm releasing one simfile for the month!
 
 ### Perfect World - Conro, Marlhy
-{{< button href="#button" target="https://www.mediafire.com/file/w5syafhdgwza5ev/Perfect_World_%255BJenro%255D.zip/file" >}}
-Mediafire
-{{< /button >}}
+https://www.mediafire.com/file/w5syafhdgwza5ev/Perfect_World_%255BJenro%255D.zip/file
 
-{{< figure src="assets/img/perfectworld-jenro.png" class="m-auto mt-6" >}}
+![Perfect World - Conro feat. Marlhy](assets/img/perfectworld-jenro.png)
+_Perfect World - Conro feat. Marlhy - Simfile Art_
 
 This chart and song encapsulates being aware of the world around you, and how, perhaps your decisions
 were part of the effects that made it the imperfect world that it is. The flipside to that is,

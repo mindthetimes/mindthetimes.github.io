@@ -3,6 +3,9 @@ title: Simfile Pack Mirrors
 date: 2025-12-05
 description: "Hosting others' packs on my own file sharing accounts."
 categories: ["simfiles"]
+image:
+  path: /assets/img/feature-jenrosarrows.png
+  alt: image alternative text
 ---
 
 {{< lead >}}
@@ -10,10 +13,9 @@ Here you can find simfiles made by others who I have hosted here on my own websi
 {{< /lead >}}
 
 ### Gull's Arrows - Infinity
-{{< figure src="assets/img/banner-gullsarrowsinfinity.png" class="m-auto mt-6" >}}
+
+![Gull's Arrows Infinity](assets/img/banner-gullsarrowsinfinity.png)
+_Gull's Arrows Infinity_
 Song Count: 30
 
-{{< button href="#button" target="https://www.mediafire.com/file/czqobe02y5v6dfv/Gull%2527s_Arrows_-_Infinity_%255BJenro%255D.zip/file" >}}
-Download
-{{< /button >}}
-
+https://www.mediafire.com/file/czqobe02y5v6dfv/Gull%2527s_Arrows_-_Infinity_%255BJenro%255D.zip/file
