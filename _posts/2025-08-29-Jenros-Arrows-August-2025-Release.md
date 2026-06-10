@@ -11,13 +11,13 @@ image:
 These two new simfile releases draw from an inner war with the "beta" state.
 
 ### Alone - Maduk, Marianna Ray
-https://www.mediafire.com/file/ehhr948syfqe47o/Alone_%255BJenro%255D.zip/file
+[Mediafire](https://www.mediafire.com/file/ehhr948syfqe47o/Alone_%255BJenro%255D.zip/file)
 
 ![Alone - Maduk feat. Marianna Ray](assets/img/alone-jenro.png)
 _Alone - Maduk feat. Marianna Ray - Simfile Art_
 
 ### Our Story - Vicktor, Strybo
-https://www.mediafire.com/file/h5erjbfpcbr503e/Our_Story_%255BJenro%255D.zip/file
+[Mediafire](https://www.mediafire.com/file/h5erjbfpcbr503e/Our_Story_%255BJenro%255D.zip/file)
 
 ![Our Story - Vicktor, Strybo](assets/img/ourstory-jenro.png)
 _Our Story - Vicktor, Strybo - Simfile Art_

@@ -11,7 +11,7 @@ image:
 It sure would be nice to keep making simfiles constantly, and this month is not an exception.
 
 ### Breathless - Jerro & Forester
-https://www.mediafire.com/file/nv5hb1hrziet9rx/Breathless_%255BJenro%255D.rar/file
+[Mediafire](https://www.mediafire.com/file/nv5hb1hrziet9rx/Breathless_%255BJenro%255D.rar/file)
 
 ![Breathless - Jerro & Forester](assets/img/breathless-jenro.png)
 _Breathless - Jerro & Forester - Simfile Art_
@@ -19,7 +19,7 @@ _Breathless - Jerro & Forester - Simfile Art_
 This chart and song is thoroughly personal. It's almost ethereal in its many aspects but still fits the DDR-vibe. I'm still learning about charting and have used different tools and I'm ready to keep releasing more charts.
 
 ### Baby Blue - Luke Hemmings
-https://www.mediafire.com/file/qwthi1amtdet4m5/Baby_Blue_%255BJenro%255D.rar/file
+[Mediafire](https://www.mediafire.com/file/qwthi1amtdet4m5/Baby_Blue_%255BJenro%255D.rar/file)
 
 ![Baby Blue - Luke Hemmings](assets/img/babyblue-jenro.png)
 _Baby Blue - Luke Hemmings - Simfile Art_

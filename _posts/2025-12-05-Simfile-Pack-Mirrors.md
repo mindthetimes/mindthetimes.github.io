@@ -18,4 +18,4 @@ Here you can find simfiles made by others who I have hosted here on my own websi
 _Gull's Arrows Infinity_
 Song Count: 30
 
-https://www.mediafire.com/file/czqobe02y5v6dfv/Gull%2527s_Arrows_-_Infinity_%255BJenro%255D.zip/file
+[Mediafire](https://www.mediafire.com/file/czqobe02y5v6dfv/Gull%2527s_Arrows_-_Infinity_%255BJenro%255D.zip/file)
