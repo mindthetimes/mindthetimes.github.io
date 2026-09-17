@@ -1,0 +1,34 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Jenro.fun",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/feed.json",
+  "description": "Jenro's local personal website for his primary interests, hobbies, and skills.",
+  "favicon": "http://localhost:1313//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Jenro Jupitel",
+    "url": "http://localhost:1313/"
+  },
+  "items": [
+    
+    
+
+    
+    {
+      "id": "63a997ca953f0f15b7b056622cdff1be81a5c3c6",
+      "title": "Simfile Pack Mirrors",
+      "summary": "Hosting others' packs on my own file sharing accounts.",
+      "content_text": "Here you can find simfiles made by others who I have hosted here on my own website.\nGull\u0026rsquo;s Arrows - Infinity Gull\u0026rsquo;s Arrows Infinity Song Count: 30\nMediafire\n",
+      "content_html": "\u003cp\u003eHere you can find simfiles made by others who I have hosted here on my own website.\u003c/p\u003e\n\u003ch3 id=\"gulls-arrows---infinity\"\u003eGull\u0026rsquo;s Arrows - Infinity\u003c/h3\u003e\n\u003cp\u003e\u003cimg\r\n  src=\"assets/img/banner-gullsarrowsinfinity.png\"\r\n  alt=\"Gull\u0026rsquo;s Arrows Infinity\"\r\n  loading=\"lazy\"\r\n  decoding=\"async\"\r\n  class=\"full-width\"\r\n/\u003e\r\n\r\n\n\u003cem\u003eGull\u0026rsquo;s Arrows Infinity\u003c/em\u003e\nSong Count: 30\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.mediafire.com/file/czqobe02y5v6dfv/Gull%2527s_Arrows_-_Infinity_%255BJenro%255D.zip/file\"\u003eMediafire\u003c/a\u003e\u003c/p\u003e\n",
+      "url": "http://localhost:1313/posts/simfile-pack-mirrors/",
+      "date_published": "5126-05-09T120:55:00+00:00",
+      "date_modified": "5126-05-09T120:55:00+00:00",
+      "author": {
+        "name": "Jenro Jupitel",
+        "url": "http://localhost:1313/"
+      }
+    }
+    
+  ]
+}
